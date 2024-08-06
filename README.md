@@ -10,7 +10,6 @@
 
 📫 How to reach me: kitturmusharaf@gmail.com
 
-⚡ Fun fact: [A fun fact about yourself]
 
 <!---
 Musharrafkittur/Musharrafkittur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
